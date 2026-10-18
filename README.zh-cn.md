@@ -4,7 +4,7 @@
 - [Español 🇦🇷](#填字游戏crucigrama-)
 - [Français 🇫🇷](README.fr.md)
 - [English 🇬🇧](README.en.md)
-
+- [中文 🇨🇳](README.zh.md)
 
 ### **填字游戏** 🇪🇸
 - [生成你自己的填字游戏](#生成你自己的填字游戏-)
